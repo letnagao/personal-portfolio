@@ -11,8 +11,8 @@ Responsive Design Using HTML CSS & JavaScript.
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99754900/212083800-c205bcf0-335d-4654-a04f-af5029041c6e.jpg" />
-  <img src="https://user-images.githubusercontent.com/99754900/212083802-6ba20dc0-f364-4ff4-80a7-a40dee9921f0.jpg" />
+  <img src="https://user-images.githubusercontent.com/99754900/212083800-c205bcf0-335d-4654-a04f-af5029041c6e.jpg" width=1280 height=800/>
+  <img src="https://user-images.githubusercontent.com/99754900/212083802-6ba20dc0-f364-4ff4-80a7-a40dee9921f0.jpg" width=1280 height=800/>
 </p>  
 
 ## Usage 📋
